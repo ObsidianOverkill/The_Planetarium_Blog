@@ -1,3 +1,18 @@
+body{
+    background-image: url(Stars_In_Space.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.hero-text, .desc{
+    color:white;
+}
+
+.gallery{
+    display: flex;
+
+}
 img{
     width:auto;
     height:500px;
