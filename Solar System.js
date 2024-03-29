@@ -12,7 +12,7 @@ function mercuryGif(){
 }
 
 function mercuryPic(){
-     document.getElementById("mercury").src="mercury.jpg";
+     document.getElementById("mercury").src="mercury-removebg-preview.png";
 }
 
 function venusGif(){
