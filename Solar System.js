@@ -1,11 +1,3 @@
-function earthGif(){
-     document.getElementById("earth").src="earth_gif.gif" ;
-}
-
-function earthPic(){
-     document.getElementById("earth").src="earth-removebg-preview.png";
-}
-
 function mercuryGif(){
      document.getElementById("mercury").src="mercury_gif.gif";
 }
@@ -20,6 +12,14 @@ function venusGif(){
 
 function venusPic(){
      document.getElementById("venus").src="venus-removebg.png";
+}
+
+function earthGif(){
+     document.getElementById("earth").src="earth_gif.gif" ;
+}
+
+function earthPic(){
+     document.getElementById("earth").src="earth-removebg-preview.png";
 }
 
 function marsGif(){
