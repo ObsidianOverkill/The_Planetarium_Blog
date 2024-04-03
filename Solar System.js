@@ -2,9 +2,8 @@ function earthGif(){
      document.getElementById("earth").src="earth_gif.gif" ;
 }
 
-
 function earthPic(){
-     document.getElementById("earth").src="earth.jpg";
+     document.getElementById("earth").src="earth-removebg-preview.png";
 }
 
 function mercuryGif(){
@@ -20,7 +19,7 @@ function venusGif(){
 }
 
 function venusPic(){
-     document.getElementById("venus").src="venus.jpg";
+     document.getElementById("venus").src="venus-removebg.png";
 }
 
 function marsGif(){
