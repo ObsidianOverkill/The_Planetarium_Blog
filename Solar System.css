@@ -1,6 +1,6 @@
  body {
 margin: 0;
-background-image: url(The\ Stars\ Gif.gif);
+background-image: linear-gradient(blue,black,lime);
 background-repeat: no-repeat;
 background-size: cover;
   }
