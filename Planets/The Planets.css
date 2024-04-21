@@ -4,6 +4,8 @@ body{
 
 h1{
     font-size: 75px;
+    text-align: center;
+    
 }
 
 p{
@@ -37,5 +39,4 @@ img{
     display: flex;
     justify-content: space-evenly;
     margin:150px;
-
 }
