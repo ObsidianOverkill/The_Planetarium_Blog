@@ -1,7 +1,7 @@
 body{
-background-image: url(Mercury.jpg);
-opacity: 0.5;
+background:linear-gradient(-145deg,lightcyan,gray,lightpink);
 background-repeat: no-repeat;
 background-size: cover;
-background-position: inherit;
+background-attachment: fixed;
 }
+
