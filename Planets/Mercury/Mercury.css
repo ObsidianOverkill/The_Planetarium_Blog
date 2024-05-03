@@ -5,3 +5,24 @@ background-size: cover;
 background-attachment: fixed;
 }
 
+h1{
+text-align: center;
+ font-size: 120px;
+color: darkblue;
+}
+
+.quick-look{
+border: solid black;
+
+}
+
+img{
+position: absolute;
+border-radius: 50%;
+}
+
+.merc_stats{
+position: relative;
+left: 27%;
+}
+
