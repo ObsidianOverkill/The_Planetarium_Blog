@@ -18,10 +18,12 @@ body{
     
     img{
     position: absolute;
+    width:600px;
     top:270px;
+
     }
     
     .turn-stats{
     position: relative;
-    left: 27%;
+    left: 31%;
     }
