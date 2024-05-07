@@ -1,5 +1,5 @@
 body{
-    background:linear-gradient(-145deg,blue,white,green);
+    background:linear-gradient(145deg,white,rgb(137, 7, 7),rgba(143, 0, 0, 0.642));
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -8,7 +8,7 @@ body{
     h1{
     text-align: center;
      font-size: 120px;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 191, 0);
     }
     
     .quick-look{
@@ -21,7 +21,7 @@ body{
     top:270px;
     }
     
-    .earth-stats{
+    .uto_stats{
     position: relative;
     left: 27%;
     }
