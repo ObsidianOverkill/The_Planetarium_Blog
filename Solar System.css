@@ -1,68 +1,16 @@
- html {
-background-image: linear-gradient(145deg,blue,white,lime);
+ html{
+background:url(Neon\ Galaxy\ background.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
-  }
+}
 
   h1{
     text-align: center;
+    color:lawngreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 200px;
     margin-top: 250px;
     margin-bottom: 250px;
   }
 
-.categories1{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-    margin-bottom: 250px;
-  }
-
-  .categories2{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-  }
-  
-  div{
-    position:relative;
-  }
-
-i{
-   font-size: 200px;
-  }
-
-  #MAC{
-    font-size: 60px;
-    position: absolute;
-    top: 150%;
-    left: 50%;
-  transform: translate(-50%, -50%);
-  }
-
-  #planets{
-    font-size: 60px;
-    position: absolute;
-    top: 100%;
-    left: 50%;
-  transform: translate(-50%, -50%);
-  }
-
-  #moons{
-    font-size: 60px;
-    position: absolute;
-    top: 100%;
-    left: 50%;
-  transform: translate(-50%, -50%);
-  }
-
-  #stars{
-    font-size: 60px;
-    position: absolute;
-    top: 100%;
-    left: 50%;
-  transform: translate(-50%, -50%);
-  }
