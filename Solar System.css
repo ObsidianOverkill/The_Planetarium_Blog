@@ -5,12 +5,32 @@ background-size: cover;
 background-attachment: fixed;
 }
 
-  h1{
-    text-align: center;
-    color:lawngreen;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 200px;
-    margin-top: 250px;
-    margin-bottom: 250px;
-  }
+img{
+width:150px;
+}
 
+ul{
+position: fixed;
+top: 0;
+width: 100%;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li:hover{
+  opacity: 0.5;
+}
