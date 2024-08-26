@@ -6,7 +6,7 @@ background-attachment: fixed;
 }
 
 img{
-width:150px;
+width:200px;
 }
 
 ul{
@@ -24,6 +24,7 @@ li {
 }
 
 li a {
+  font-size: 50px;
   display: block;
   color: white;
   text-align: center;
